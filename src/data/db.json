@@ -1,0 +1,317 @@
+{
+  "transactions": [
+    {
+      "date": "2023-03-17T09:59:59.513Z",
+      "cryptoName": "Bitcoin",
+      "transactionState": "error",
+      "depositor": "Badgley",
+      "status": "Failed",
+      "transactionAmountInBTC": "$1 BTC",
+      "transactionAmount": "$3407069.54",
+      "deliveryFee": "0.001 BTC",
+      "transactionFee": "$1,000.00",
+      "id": 1
+    },
+    {
+      "date": "2023-03-17T10:00:16.010Z",
+      "cryptoName": "Tether",
+      "transactionState": "success",
+      "depositor": "Badgley",
+      "status": "Purchased",
+      "transactionAmountInBTC": "$0.226667 TETHER",
+      "transactionAmount": "$1016.82095807",
+      "deliveryFee": "0.008 TETHER",
+      "transactionFee": "$1,000.00",
+      "id": 2
+    }
+  ],
+  "cryptoCurrency": [
+    {
+      "id": 1,
+      "iconURL": "BitcoinIcon",
+      "cryptoName": "Bitcoin",
+      "type": "BTC",
+      "price": "$3,406,069.54",
+      "change": "+1.06%",
+      "marketCap": "$60.1T",
+      "Vol24H": "$2.9T",
+      "circulatingSupply": "18.8M BTC",
+      "profitloss": "+8.2%",
+      "isWatchlisted": true
+    },
+    {
+      "id": 2,
+      "iconURL": "EthereumIcon",
+      "cryptoName": "Ethereum",
+      "type": "ETH",
+      "price": "$1,297.93",
+      "change": "-5.49%",
+      "marketCap": "$25.4T",
+      "Vol24H": "$11.5B",
+      "circulatingSupply": "122.60M ETH",
+      "profitloss": "+0.64%",
+      "isWatchlisted": true
+    },
+    {
+      "id": 3,
+      "iconURL": "Ethereum2Icon",
+      "cryptoName": "Ethereum 2",
+      "type": "ETH2",
+      "price": "$216,678.10",
+      "change": "-5.49%",
+      "marketCap": "$25.4T",
+      "Vol24H": "$3T",
+      "circulatingSupply": "22.8M BTC",
+      "profitloss": "-1.5%",
+      "isWatchlisted": false
+    },
+    {
+      "id": 4,
+      "iconURL": "TetherIcon",
+      "cryptoName": "Tether",
+      "type": "USDT",
+      "price": "$74.31",
+      "change": "+0.11%",
+      "marketCap": "$4.6T",
+      "Vol24H": "$4.1T",
+      "circulatingSupply": "15.8M BTC",
+      "profitloss": "+2.2%",
+      "isWatchlisted": false
+    },
+    {
+      "id": 5,
+      "iconURL": "BitcoinCoin",
+      "cryptoName": "Bitcoin Coin",
+      "type": "BNB",
+      "price": "$24,942.54",
+      "change": "-3.69%",
+      "marketCap": "$4.2T",
+      "Vol24H": "$1.9T",
+      "circulatingSupply": "13.8M BTC",
+      "profitloss": "-4.1%",
+      "isWatchlisted": false
+    },
+    {
+      "id": 6,
+      "iconURL": "CardanoIcon",
+      "cryptoName": "Cardano",
+      "type": "ADA",
+      "price": "$104.52",
+      "change": "-1.82%",
+      "marketCap": "$3.4T",
+      "Vol24H": "$2.6T",
+      "circulatingSupply": "26.8M BTC",
+      "profitloss": "+3.2%",
+      "isWatchlisted": false
+    },
+    {
+      "id": 7,
+      "iconURL": "XRPIcon",
+      "cryptoName": "XRP",
+      "type": "XRP",
+      "price": "$57.21",
+      "change": "+1.11%",
+      "marketCap": "$2.7T",
+      "Vol24H": "$2.2T",
+      "circulatingSupply": "29.8M BTC",
+      "profitloss": "-4.2%",
+      "isWatchlisted": false
+    },
+    {
+      "id": 8,
+      "iconURL": "DodgeCoinIcon",
+      "cryptoName": "Dodge Coin",
+      "type": "XRP",
+      "price": "$17.64",
+      "change": "-6.96%",
+      "marketCap": "$2.3T",
+      "Vol24H": "$2.1T",
+      "circulatingSupply": "30.8M BTC",
+      "profitloss": "-6.2%",
+      "isWatchlisted": false
+    },
+    {
+      "id": 9,
+      "iconURL": "USDCoinIcon",
+      "cryptoName": "USD Coin",
+      "type": "XRP",
+      "price": "$74.26",
+      "change": "+1.01%",
+      "marketCap": "$2.1T",
+      "Vol24H": "$2.5T",
+      "circulatingSupply": "12.8M BTC",
+      "profitloss": "+5.5%",
+      "isWatchlisted": false
+    },
+    {
+      "id": 10,
+      "iconURL": "PolkadotIcon",
+      "cryptoName": "Polkadot",
+      "type": "DOT",
+      "price": "$1,642.39",
+      "change": "+1.01%",
+      "marketCap": "$2.1T",
+      "Vol24H": "$2.5T",
+      "circulatingSupply": "12.8M BTC",
+      "profitloss": "+8.1%",
+      "isWatchlisted": false
+    }
+  ],
+  "myPortfolio": [
+    {
+      "id": 1,
+      "iconURL": "BitcoinIcon",
+      "type": "BTC",
+      "cryptoName": "Bitcoin",
+      "currencyValue": "$34,000.00",
+      "profitLoss": "+1.06%"
+    },
+    {
+      "id": 2,
+      "iconURL": "EthereumIcon",
+      "type": "ETH",
+      "cryptoName": "Ethereum",
+      "currencyValue": "$1,297.85",
+      "profitLoss": "+6.85%"
+    },
+    {
+      "id": 3,
+      "iconURL": "TetherIcon",
+      "type": "USDT",
+      "cryptoName": "Tether",
+      "currencyValue": "$ 74.28",
+      "profitLoss": "-0.01%"
+    },
+    {
+      "id": 4,
+      "iconURL": "XRPIcon",
+      "type": "XRP",
+      "cryptoName": "XRP",
+      "currencyValue": "$44,000",
+      "profitLoss": "-1.00%"
+    },
+    {
+      "id": 5,
+      "iconURL": "Ethereum2Icon",
+      "type": "ETH2",
+      "cryptoName": "Ethereum 2",
+      "currencyValue": "$44,000",
+      "profitLoss": "-2.03%"
+    },
+    {
+      "id": 6,
+      "iconURL": "BitcoinIcon2",
+      "type": "BTC2",
+      "cryptoName": "Bitcoin Coin",
+      "currencyValue": "$5000",
+      "profitLoss": "-0.59%"
+    },
+    {
+      "id": 7,
+      "iconURL": "CardanoIcon",
+      "type": "CRD",
+      "cryptoName": "Cardano",
+      "currencyValue": "$37,000",
+      "profitLoss": "-3.05%"
+    },
+    {
+      "id": 8,
+      "iconURL": "DodgeIcon",
+      "type": "DODGE",
+      "cryptoName": "Dodge Coin",
+      "currencyValue": "$23,000",
+      "profitLoss": "+2.57%"
+    },
+    {
+      "id": 9,
+      "iconURL": "USDIcon",
+      "type": "USD",
+      "cryptoName": "USD Coin",
+      "currencyValue": "$19,000",
+      "profitLoss": "-3.00%"
+    }
+  ],
+  "wallets": [
+    {
+      "id": 1,
+      "iconURL": "USDCoinIcon",
+      "type": "US Dollar",
+      "cryptoName": "USD Coin",
+      "totalBalance": "$32975.75804193"
+    }
+  ],
+  "chooseCrypto": [
+    {
+      "id": 1,
+      "iconURL": "BitCoinIcon",
+      "cryptoName": "Bitcoin",
+      "price": "$3,406,069.54",
+      "type": "BTC",
+      "deliveryFee": 0.001
+    },
+    {
+      "id": 2,
+      "iconURL": "EthereumIcon",
+      "cryptoName": "Ethereum",
+      "price": "$1,297.93",
+      "type": "ETH",
+      "deliveryFee": 0.005
+    },
+    {
+      "id": 3,
+      "iconURL": "BinanceIcon",
+      "cryptoName": "Binance",
+      "price": "$30,054.88",
+      "type": "BNB",
+      "deliveryFee": 0.002
+    },
+    {
+      "id": 4,
+      "iconURL": "TetherIcon",
+      "cryptoName": "Tether",
+      "price": "$74.21",
+      "type": "TETHER",
+      "deliveryFee": 0.008
+    },
+    {
+      "id": 5,
+      "iconURL": "CardanoIcon",
+      "cryptoName": "Cardano",
+      "price": "$138.22",
+      "type": "CRD",
+      "deliveryFee": 0.004
+    },
+    {
+      "id": 6,
+      "iconURL": "XRPIcon",
+      "cryptoName": "XRP",
+      "price": "$76.73",
+      "type": "XRP",
+      "deliveryFee": 0.005
+    },
+    {
+      "id": 7,
+      "iconURL": "DodgeCoinIcon",
+      "cryptoName": "Dodge Coin",
+      "price": "$21.37",
+      "type": "DODGE",
+      "deliveryFee": 0.001
+    },
+    {
+      "id": 8,
+      "iconURL": "PolkadotIcon",
+      "cryptoName": "Polkadot",
+      "price": "$1,642.39",
+      "type": "POLKA",
+      "deliveryFee": 0.008
+    },
+    {
+      "id": 9,
+      "iconURL": "USDCoinIcon",
+      "cryptoName": "USD Coin",
+      "price": "$74.26",
+      "type": "USD",
+      "deliveryFee": 0.004
+    }
+  ]
+}

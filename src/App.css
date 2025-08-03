@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "GraphikRegular";
+    src: url("../src/assets/fonts/GraphikRegular.otf"); 
+}
+*{
+    font-family: "Graphik",sans-serif;
+}
+body{
+    background-color:rgba(250, 252, 255, 1)
+}
